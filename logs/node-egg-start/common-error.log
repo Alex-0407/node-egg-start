@@ -1,0 +1,360 @@
+2017-03-16 13:28:09,158 ERROR 6984 [-/::1/-/10ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 6984
+hostname: M3114030152
+
+2017-03-16 13:32:17,634 ERROR 7192 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7192
+hostname: M3114030152
+
+2017-03-16 13:32:17,673 ERROR 7192 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7192
+hostname: M3114030152
+
+2017-03-16 13:32:19,204 ERROR 7192 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7192
+hostname: M3114030152
+
+2017-03-16 13:32:19,206 ERROR 7192 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7192
+hostname: M3114030152
+
+2017-03-16 13:34:46,952 ERROR 1420 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 1420
+hostname: M3114030152
+
+2017-03-16 13:34:48,527 ERROR 1420 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 1420
+hostname: M3114030152
+
+2017-03-16 13:34:49,401 ERROR 1420 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 1420
+hostname: M3114030152
+
+2017-03-16 13:34:55,781 ERROR 1420 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 1420
+hostname: M3114030152
+
+2017-03-16 13:43:26,530 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:28,527 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:29,369 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:30,851 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:35,952 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:37,559 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 13:43:39,447 ERROR 7172 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\workspace\node\node-egg-start\node_modules\egg\lib\application.js:180:15)
+    at Object.get cookies [as cookies] (D:\workspace\node\node-egg-start\node_modules\egg\app\extend\context.js:21:49)
+    at Object.get [egg-security#CSRF_SECRET] (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:76:32)
+    at Object.ensureCsrfSecret (D:\workspace\node\node-egg-start\node_modules\egg-security\app\extend\context.js:87:13)
+    at Object.csrf (D:\workspace\node\node-egg-start\node_modules\egg-security\lib\middlewares\csrf.js:13:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\workspace\node\node-egg-start\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\workspace\node\node-egg-start\node_modules\co\index.js:65:19)
+    at D:\workspace\node\node-egg-start\node_modules\co\index.js:54:5
+
+pid: 7172
+hostname: M3114030152
+
+2017-03-16 14:14:29,421 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:14:29,421 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:14:34,928 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:14:34,928 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:26,954 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:26,954 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:28,514 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:28,514 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:39,840 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:15:39,840 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:17:06,496 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:17:06,496 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:17:08,134 ERROR 7336 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 7336
+hostname: M3114030152
+
+2017-03-16 14:17:08,150 ERROR 7336 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1029:11)
+    at TCP.onread (net.js:575:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 7336
+hostname: M3114030152
+

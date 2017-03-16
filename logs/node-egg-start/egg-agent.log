@@ -1,0 +1,92 @@
+2017-03-16 13:27:54,347 INFO 7192 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 13:27:54,378 INFO 7192 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 13:27:54,440 INFO 7192 [ClusterClient#Watcher] has seized port 57341, and serves as leader client.
+2017-03-16 13:27:54,440 INFO 7192 [egg-watcher:agent] watcher start success
+2017-03-16 13:27:56,188 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:27:56,219 INFO 7192 [Leader#Watcher] socket connected, port: 57372
+2017-03-16 13:32:14,574 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:14,575 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:14,776 WARN 7192 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\config\config.default.js change
+2017-03-16 13:32:14,818 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:14,821 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:15,012 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:15,013 INFO 7192 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 13:32:15,213 WARN 7192 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\config\config.default.js change
+2017-03-16 13:32:17,417 INFO 7192 [Leader#Watcher] socket connected, port: 59898
+2017-03-16 13:32:19,195 INFO 7192 [Leader#Watcher] socket connected, port: 59916
+2017-03-16 13:32:56,488 INFO 6244 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 13:32:56,532 INFO 6244 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 13:32:56,596 INFO 6244 [ClusterClient#Watcher] has seized port 60255, and serves as leader client.
+2017-03-16 13:32:56,598 INFO 6244 [egg-watcher:agent] watcher start success
+2017-03-16 13:32:58,661 INFO 6244 [Leader#Watcher] socket connected, port: 60300
+2017-03-16 13:43:14,096 INFO 7192 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 13:43:14,127 INFO 7192 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 13:43:14,190 INFO 7192 [ClusterClient#Watcher] has seized port 50020, and serves as leader client.
+2017-03-16 13:43:14,190 INFO 7192 [egg-watcher:agent] watcher start success
+2017-03-16 13:43:15,953 INFO 7192 [Leader#Watcher] socket connected, port: 50051
+2017-03-16 14:00:28,083 INFO 6296 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 14:00:28,114 INFO 6296 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 14:00:28,176 INFO 6296 [ClusterClient#Watcher] has seized port 59813, and serves as leader client.
+2017-03-16 14:00:28,176 INFO 6296 [egg-watcher:agent] watcher start success
+2017-03-16 14:00:29,939 INFO 6296 [Leader#Watcher] socket connected, port: 59844
+2017-03-16 14:03:02,320 INFO 7100 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 14:03:02,351 INFO 7100 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 14:03:02,413 INFO 7100 [ClusterClient#Watcher] has seized port 61253, and serves as leader client.
+2017-03-16 14:03:02,413 INFO 7100 [egg-watcher:agent] watcher start success
+2017-03-16 14:03:04,176 INFO 7100 [Leader#Watcher] socket connected, port: 61284
+2017-03-16 14:03:20,524 INFO 6236 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 14:03:20,540 INFO 6236 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 14:03:20,602 INFO 6236 [ClusterClient#Watcher] has seized port 61422, and serves as leader client.
+2017-03-16 14:03:20,602 INFO 6236 [egg-watcher:agent] watcher start success
+2017-03-16 14:03:22,349 INFO 6236 [Leader#Watcher] socket connected, port: 61453
+2017-03-16 14:11:21,245 INFO 7336 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 14:11:21,276 INFO 7336 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 14:11:21,339 INFO 7336 [ClusterClient#Watcher] has seized port 49556, and serves as leader client.
+2017-03-16 14:11:21,339 INFO 7336 [egg-watcher:agent] watcher start success
+2017-03-16 14:11:23,258 INFO 7336 [Leader#Watcher] socket connected, port: 49588
+2017-03-16 14:12:58,226 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:12:58,226 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:13:03,530 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:13:03,530 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:03,964 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,648 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,648 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,648 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,648 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,679 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,694 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,694 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:24,897 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\service\new.js change
+2017-03-16 14:14:29,421 INFO 7336 [Leader#Watcher] socket connected, port: 51323
+2017-03-16 14:14:31,543 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:31,543 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:31,543 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:31,543 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:14:31,761 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\service\news.js change
+2017-03-16 14:14:34,912 INFO 7336 [Leader#Watcher] socket connected, port: 51377
+2017-03-16 14:15:24,770 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:24,770 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:24,989 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\controller\news.js change
+2017-03-16 14:15:25,176 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:25,176 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:25,176 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:25,394 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\controller\news.js change
+2017-03-16 14:15:26,720 INFO 7336 [Leader#Watcher] socket connected, port: 51865
+2017-03-16 14:15:28,514 INFO 7336 [Leader#Watcher] socket connected, port: 51883
+2017-03-16 14:15:37,827 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:37,827 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:15:38,046 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\app\controller\news.js change
+2017-03-16 14:15:39,840 INFO 7336 [Leader#Watcher] socket connected, port: 51989
+2017-03-16 14:17:03,594 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:17:03,594 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:17:03,813 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\config\config.default.js change
+2017-03-16 14:17:03,875 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:17:03,875 INFO 7336 [Leader#Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-03-16 14:17:04,094 WARN 7336 [agent:development] reload worker because D:\workspace\node\node-egg-start\config\config.default.js change
+2017-03-16 14:17:06,278 INFO 7336 [Leader#Watcher] socket connected, port: 52794
+2017-03-16 14:17:08,134 INFO 7336 [Leader#Watcher] socket connected, port: 52813
+2017-03-16 14:17:28,631 INFO 2960 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\node\\node-egg-start\\logs\\node-egg-start","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"node-egg-start-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-03-16 14:17:28,647 INFO 2960 [ClusterClient#Watcher] subscribe ["D:\\workspace\\node\\node-egg-start\\app","D:\\workspace\\node\\node-egg-start\\config","D:\\workspace\\node\\node-egg-start\\mocks","D:\\workspace\\node\\node-egg-start\\mocks_proxy"]
+2017-03-16 14:17:28,709 INFO 2960 [ClusterClient#Watcher] has seized port 52991, and serves as leader client.
+2017-03-16 14:17:28,709 INFO 2960 [egg-watcher:agent] watcher start success
+2017-03-16 14:17:30,597 INFO 2960 [Leader#Watcher] socket connected, port: 53024
